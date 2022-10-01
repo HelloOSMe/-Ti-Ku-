@@ -11,6 +11,11 @@ Warning:These files only support Chinese.
 ### 使用方法
 在键盘上点按选项对应字母即可。  
 如果有蓝色加亮，你可以直接ENTER进入蓝色选项。
+增加题目时，答案一定要对应：
+A=1
+B=2
+C=3
+D=4
 
 ----------
 ### 提醒
