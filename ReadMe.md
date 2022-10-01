@@ -2,6 +2,12 @@
 Warning:These files only support Chinese.
 
 ----------
+### 目录
+[简介](https://github.com/HelloOSMe/-Ti-Ku-#简介)  
+[使用方法](https://github.com/HelloOSMe/-Ti-Ku-#使用方法)  
+[提醒](https://github.com/HelloOSMe/-Ti-Ku-#提醒)
+
+----------
 ### 简介
 这是一个气象学题库。  
 题目存在./Text1/ti中，选项存在./Text1/choose1、./Text1/choose2、./Text1/choose3和./Text1/choose4中。  
@@ -10,8 +16,7 @@ Warning:These files only support Chinese.
 ----------
 ### 使用方法
 在键盘上点按选项对应字母即可。  
-如果有蓝色加亮，你可以直接ENTER进入蓝色选项。
-增加题目时，答案一定要对应：  
+如果有蓝色加亮，你可以直接ENTER进入蓝色选项。 增加题目时，答案一定要对应：  
 A=1  
 B=2  
 C=3  
